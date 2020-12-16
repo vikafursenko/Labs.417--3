@@ -14,9 +14,6 @@ public:
 		std::cout << "Введите 2 координаты вектора a:= " << std::endl;
 		std::cout << "x1 := ";
 		std::cin >> a[0];
-
-		
-
 		std::cout << "y1 := ";
 		std::cin >> a[1];
 
@@ -27,7 +24,6 @@ public:
 		std::cout << "Введите 2 координаты вектора b: = " << std::endl;
 		std::cout << "x2 := ";
 		std::cin >> b[0];
-
 		std::cout << "y2 := ";
 		std::cin >> b[1];
 
